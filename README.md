@@ -1,0 +1,1 @@
+Monetry is a budgeting application designed to simplify the planning of recurring expenses. It's free for self-hosting (documentation forthcoming) but necessitates a Plaid account for seamless communication with banks.
